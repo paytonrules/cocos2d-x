@@ -113,6 +113,11 @@
 			<locationURI>COCOS2DX/samples/Cpp/TestCpp/Classes</locationURI>
 		</link>
 		<link>
+			<name>cocos2d_src</name>
+			<type>2</type>
+			<location>/Users/eric/Projects/cocos2d-x/cocos2dx/platform/android/java/src</location>
+		</link>
+		<link>
 			<name>cocos2dx</name>
 			<type>2</type>
 			<locationURI>COCOS2DX/cocos2dx</locationURI>
